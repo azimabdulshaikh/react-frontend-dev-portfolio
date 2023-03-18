@@ -1,0 +1,118 @@
+{
+    "basic_info": {
+      "description_header": "Hi",
+      "description": "👋 I'm Abdul Azim Shaikh. I'm working with newest front-end frameworks like Angular and React. Through constant practice & learning, I produce aesthetic software to an extremely high standard. Thank you 💜",
+      "section_name": {
+        "about": "About me",
+        "projects": "Projects",
+        "skills": "Skills",
+        "experience": "Experience"
+      }
+    },
+    "projects": [
+      {
+        "title": "Omni Food ",
+        "startDate": "2020",
+        "description": "This landing page is build from scratch. I've learned many technologies and upskilled on core html, css fundamentals. This is the landing page of the food restaurant which shows receipes, testimonials etc. Special credits to Jonas Schmedtmann for mentoring",
+        "images": [
+          "images/portfolio/bhukkad/bhukkad.png",
+          "images/portfolio/bhukkad/receipe.png"
+        ],
+        "url": "https://azimabdulshaikh.github.io/bhukkad/#",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS"
+          },
+          {
+            "class": "devicon-sass-plain",
+            "name": "SASS"
+          }
+        ]
+      },
+      {
+        "title": "Easy Bank",
+        "startDate": "2021",
+        "description": "Personal project for study subject. I was responsible for development from scratch, get my hands dirty on sass ",
+        "images": [
+          "images/portfolio/easybank/easy-bank.png",
+          "images/portfolio/easybank/mobile-view.png"
+        ],
+        "url": "https://tranquil-starlight-567173.netlify.app/",
+        "technologies": [
+          {
+            "class": "devicon-sass-original",
+            "name": "SASS"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS3"
+          }
+        ]
+      },
+      {
+        "title": "3D Object Viewer",
+        "startDate": "2015",
+        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "images": [
+          "images/portfolio/photography/p1.jpg",
+          "images/portfolio/photography/p2.jpg"
+        ],
+        "url": "https://github.com/azimabdulshaikh",
+        "technologies": [
+          {
+            "class": "devicon-angularjs-plain",
+            "name": "Angular"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "TypeScript"
+          },
+          {
+            "class": "devicon-csharp-plain",
+            "name": "C#"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "Capgemini",
+        "title": "Associate Consultant",
+        "years": "06.2021 - present",
+        "mainTech": [
+          "Angular 8/9/10+"
+        ],
+        "logo":"angular",
+        "technologies": [
+          "REST API",
+          "RxJS",
+          "JavaScript",
+          "Bootstrap",
+          "Angular Material",
+          "Java",
+          "Sprint Boot"
+        ]
+      },
+      {
+        "company": "Tech-Mahindra",
+        "title": "Junior Software Engineer",
+        "years": "06.2019 - 10.2020",
+        "mainTech": [
+          "React 16"
+        ],
+        "logo":"react",
+        "technologies": [
+          "HTML",
+          "CSS",
+          "SCSS",
+          "Bootstrap",
+          "JavaScript"
+        ]
+      }
+    ]
+  }
